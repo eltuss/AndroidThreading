@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidThreading</string>
+    <string name="carregar">Carregar</string>
+    <string name="nome">Elton</string>
+</resources>
